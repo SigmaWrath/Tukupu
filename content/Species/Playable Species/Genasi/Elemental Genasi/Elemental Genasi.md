@@ -15,6 +15,7 @@ tags:
 | [[Earth Genasi]]                                                                      |
 | [[Fire Genasi]]                                                                       |
 | [[Air Genasi]]                                                                        |
+
 Those who think of other [[Planes|planes]] at all consider them remote, distant realms, but planar influence can be felt throughout the world. It sometimes manifests in beings who, through an accident of birth, carry the power of the planes in their blood. The genasi are one such people, the offspring of genies and mortals.
 
 The [[Elemental Planes]] are often inhospitable to natives of the [[Vesperia|Material Plane]]: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, don’t face such troubles when venturing into the mortal world. They adapt well to the mingled elements of the Material Plane, and they sometimes visit—whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito.

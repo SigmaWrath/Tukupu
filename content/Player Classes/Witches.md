@@ -15,6 +15,7 @@ tags:
 | [[Path of the Witch]]    | [[Barbarian]]       |
 | [[Circle of the Brew]]   | [[Druid]]           |
 | [[School of Witchcraft]] | [[Wizard]]          |
+
 Unlike [[Wizard|wizards]], who learn their magic through the study of books and ancient tomes, or [[Warlock|warlocks]] and [[Cleric|clerics]], who get their powers by the will of a higher and powerful entity, witches summon spirits from the [[Ethereal Plane]] to use their power.
 
 This vast and ever-changing oral tradition is called witchcraft, and it can only be taught by a powerful witch.

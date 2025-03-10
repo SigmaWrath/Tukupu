@@ -34,6 +34,8 @@ When humanoids encountered fairies and broke fey moral codes, they received a ho
 | Creature Type | Size  | Speed |
 | ------------- | ----- | ----- |
 | Fey           | Small | 30 ft |
+<br>
+
 ***<span style="color:rgb(134, 93, 187)">Fey</span>***: Your creature type is Fey. You cannot be [[Charmed]] or put to [[Sleep]] against your will. 
 
 **<span style="color:rgb(134, 93, 187)">*Fairy Magic*</span>**: You know the [[Druidcraft]] cantrip. Starting at 3rd level, you can cast the [[Faerie Fire]] spell with this trait. Starting at 5th level, you can also cast the [[Enlarge—Reduce|Enlarge/Reduce]] spell with this trait, without requiring a material component. Once you cast [[Faerie Fire]] or [[Enlarge—Reduce|Enlarge/Reduce]] with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.

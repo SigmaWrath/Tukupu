@@ -10,7 +10,7 @@ aliases:
 tags:
   - plane
   - "#UNSEPARATED"
-draft: true
+draft: false
 ---
 > *<span style="color:rgb(125, 125, 125)">Naltor, also known as the Dream Realm, is the [[Outer Planes|outer plane]] that embodies dreams as the interaction between thought and reality.</span>*
 

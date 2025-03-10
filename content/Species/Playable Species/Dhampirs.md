@@ -21,12 +21,16 @@ While many dhampirs thirst for blood, they might otherwise gain sustenance from 
 | Psychic energy                                               |
 | Dreams                                                       |
 | Life energy                                                  |
+
+
 Dhampirs are most often the child of a [[Vampires|vampire]] and some Humanoid, but plenty of other circumstances might have transformed a dhampir. Perhaps a pact with a predatory fiend, fey, or spirit causes you to share their hunger. Maybe a radical experiment changed their body, making them reliant on others for vital fluids. 
 ### Mechanical Traits
 
 | Creature Type | Size            | Speed |
 | ------------- | --------------- | ----- |
 | Humanoid      | Medium or Small | 35 ft |
+
+
 **<span style="color:rgb(134, 93, 187)">Ancestral Legacy</span>**: If you replace a race with this lineage, you can keep any climbing, flying, or swimming speed you gained from it.
 
 **<span style="color:rgb(134, 93, 187)">Darkvision</span>**: You have [[Darkvision]] with a range of 60 feet.

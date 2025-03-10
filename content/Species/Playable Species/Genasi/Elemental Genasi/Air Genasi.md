@@ -15,6 +15,7 @@ Air genasi’s skin tones include many shades of blue, along with the full range
 | Creature Type | Size            | Speed |
 | ------------- | --------------- | ----- |
 | Humanoid      | Medium or Small | 35 ft |
+
 ***<span style="color:rgb(134, 93, 187)">Darkvision</span>***: You have [[Darkvision]] with a range of 60 feet.
 
  **<span style="color:rgb(134, 93, 187)">*Lightning Resistance*</span>**: You have resistance to lightning damage.

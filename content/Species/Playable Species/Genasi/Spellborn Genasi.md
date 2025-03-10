@@ -22,6 +22,7 @@ The different arcaneborn that are born from the casting of this spell are aligne
 | Creature Type | Size            | Speed |
 | ------------- | --------------- | ----- |
 | Humanoid      | Medium or Small | 30 ft |
+
 ***<span style="color:rgb(134, 93, 187)">Darkvision</span>***: You have [[Darkvision]] with a range of 120 feet.
 
 ***<span style="color:rgb(134, 93, 187)">Arcane Imprint</span>***: Magic has left an indelible mark on you. Choose one of the following benefits, corresponding to the school of magic of the spell that left an imprint on you, as an arcane boon from your exposure to the highest levels of magic.

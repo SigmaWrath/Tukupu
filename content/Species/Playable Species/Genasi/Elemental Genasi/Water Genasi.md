@@ -14,6 +14,7 @@ A water genasi's skin is often a shade of blue or green, sometimes a blend of th
 | Creature Type | Size            | Speed |
 | ------------- | --------------- | ----- |
 | Humanoid      | Medium or Small | 30 ft |
+
 ***<span style="color:rgb(134, 93, 187)">Darkvision</span>***: You have [[Darkvision]] with a range of 60 feet.
 
  **<span style="color:rgb(134, 93, 187)">*Acid Resistance*</span>**: You have resistance to acid damage.

@@ -14,6 +14,7 @@ Nearly all fire genasi are feverishly hot as if burning inside. They show their 
 | Creature Type | Size  | Speed |
 | ------------- | ----- | ----- |
 | Humanoid      | Small | 30 ft |
+
 ***<span style="color:rgb(134, 93, 187)">Darkvision</span>***: You have [[Darkvision]] with a range of 60 feet.
 
  **<span style="color:rgb(134, 93, 187)">*Fire Resistance*</span>**: You have resistance to fire damage.

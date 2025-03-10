@@ -15,6 +15,7 @@ An earth genasi’s skin can be the colors of stone and earth or a human skin to
 | Creature Type | Size            | Speed |
 | ------------- | --------------- | ----- |
 | Humanoid      | Medium or Small | 30 ft |
+
 ***<span style="color:rgb(134, 93, 187)">Darkvision</span>***: You have [[Darkvision]] with a range of 60 feet.
 
 ***<span style="color:rgb(134, 93, 187)">Earth Walk</span>***: You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.

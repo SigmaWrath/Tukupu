@@ -9,13 +9,13 @@ title: Tukupu
 
 <br>
 
-### <u>Start with the pages below</u>:
-#### <span style="color:rgb(203, 123, 55)">Lore</span>
-- [[Vesperia]]
-- [[Deities]]
-- [[Planes]]
-##### <span style="color:rgb(203, 123, 55)">Character Creation</span>
-- [[Player Classes]]
-- [[Species]]
-- [[Backgrounds]]
+## Start with the pages below:
+### <span style="color:rgb(203, 123, 55)"><u>Lore</u></span>
+#### [[Vesperia]]
+#### [[Deities]]
+#### [[Planes]]
+### <span style="color:rgb(203, 123, 55)"><u>Character Creation</u></span>
+#### [[Player Classes]]
+#### [[Species]]
+#### [[Backgrounds]]
 

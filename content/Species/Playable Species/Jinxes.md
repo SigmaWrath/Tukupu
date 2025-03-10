@@ -29,6 +29,8 @@ Some others, however, embrace their bad luck and see it as a gift. There are whi
 | Creature Type | Size  | Speed |
 | ------------- | ----- | ----- |
 | Humanoid      | Small | 30 ft |
+
+
 _**<span style="color:rgb(134, 93, 187)">Halfling Nimbleness</span>:**_ You can move through the space of any creature that is a size larger than you, but you can’t stop in the same space.
 
 ***<span style="color:rgb(134, 93, 187)">Unalluring</span>***: You have advantage on saving throws against being [[Charmed]].

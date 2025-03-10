@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">An area with Dim Light is [[Lightly Obscured]].</span>*
