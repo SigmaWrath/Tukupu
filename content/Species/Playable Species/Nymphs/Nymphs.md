@@ -17,4 +17,5 @@ There are many different kinds of nymphs.
 | --------------- |
 | [[Dryads]]      |
 | [[Naiads]]      |
+
 In addition to the nymphs listed above, there are also [[Aurae]] (nymphs of breezes), [[Nereids]] (nymphs of ocean), [[Asteriae]] (nymphs of stars), and [[Anthusae]] (nymphs of flowers).

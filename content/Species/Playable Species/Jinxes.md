@@ -1,4 +1,8 @@
 ---
+aliases:
+  - jinxes
+  - Jinx
+  - jinx
 tags:
   - playable
   - species

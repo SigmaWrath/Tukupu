@@ -1,6 +1,8 @@
 ---
 tags:
   - species
+aliases:
+  - species
 ---
 > *<span style="color:rgb(125, 125, 125)">Species here will refer to playable/non-playable, sapient, mortal creatures with the species tag.</span>*
 

@@ -11,3 +11,4 @@ tags:
 | [[Druid]]                                                 | [[Monk]]                                              | [[Warlock]]                                                  |
 | [[Sorcerer]]                                              | [[Rogue]]                                             | <span style="color:rgb(125, 125, 125)">—</span>              |
 | [[Wizard]]                                                | <span style="color:rgb(125, 125, 125)">—</span>       | <span style="color:rgb(125, 125, 125)">—</span>              |
+> <span style="color:rgb(125, 125, 125)">See also: [[Witches]] </span> 

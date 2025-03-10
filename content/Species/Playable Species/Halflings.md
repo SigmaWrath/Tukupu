@@ -9,7 +9,7 @@ tags:
 ### Overview
 Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size—similar to that of a human child (averaging ~3 ft. tall)—helps them pass through crowds unnoticed and slip through tight spaces.
 
-Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied “luck of the halflings” in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling’s behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to the ancient blessing of [[The Lovers]]. The same gift might contribute to their robust life spans (about 150 years). <span style="color:rgb(203, 123, 55)">However, every once in a while, a halfling is born with bad luck—these halflings are called [[jinxes]].</span>
+Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied “luck of the halflings” in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling’s behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to the ancient blessing of [[The Lovers]]. The same gift might contribute to their robust life spans (about 150 years). <span style="color:rgb(203, 123, 55)">However, every once in a while, a halfling is born with bad luck—these halflings are called [[Jinxes|jinxes]].</span>
 #### <span style="color:rgb(203, 123, 55)">Community</span>
 Halfling communities come in all varieties. While halfling communities tend to be associated with sequestered shires, they can comprise the majority population of a city like [[Stonehaven]], or form a crime syndicate like [[The Fanged]]. 
 
@@ -20,6 +20,7 @@ Halflings who prefer to live underground are sometimes called strongheart halfli
 | Creature Type | Size  | Speed |
 | ------------- | ----- | ----- |
 | Humanoid      | Small | 30 ft |
+
 
 _**<span style="color:rgb(134, 93, 187)">Brave</span>:**_ You have Advantage on saving throws you make to avoid or end the [[Frightened]] condition.
 
