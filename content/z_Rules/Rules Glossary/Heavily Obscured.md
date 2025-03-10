@@ -1,1 +1,0 @@
-> *<span style="color:rgb(125, 125, 125)">You have the [[Blinded]] condition while trying to see something in a Heavily Obscured space.</span>*

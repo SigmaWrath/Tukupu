@@ -1,1 +1,0 @@
-> <span style="color:rgb(125, 125, 125)">Your [[Aura of Protection]] is now a 30-foot Emanation.</span> 
