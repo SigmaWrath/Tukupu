@@ -1,6 +1,7 @@
 ---
 aliases:
   - Horizon God
+draft: true
 ---
 ## <span style="color:rgb(68, 122, 203)">Erwnvyn: The Horizon God</span>
 

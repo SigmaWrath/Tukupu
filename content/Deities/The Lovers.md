@@ -4,7 +4,7 @@ aliases:
   - Solanah and Akareth
   - Lovers
 ---
-> The Lovers, [[Solanah]] and [[Akareth]], are the two primary [[Deities]] worshipped in [[Vesperia]] and its [[Parallel Planes]]. They are the Sun and the Moon respectively, lovers who chase each other across the sky to be together, kept apart by the [[Erwnvyn|Horizon God]], Erwnvyn. Each of them has three [[Aspect|aspects]].
+> The Lovers, [[Solanah]] and [[Akareth]], are the two primary [[Deities]] worshipped in [[Vesperia]] and its [[Parallel Planes]]. They are the Sun and the Moon respectively, lovers who chase each other across the sky to be together, kept apart by a [[Erwnvyn|mysterious force of the horizon]]. Each of them has three [[Aspect|aspects]].
 
 ## <span style="color:rgb(125, 125, 125)">Summary Table</span>
 
