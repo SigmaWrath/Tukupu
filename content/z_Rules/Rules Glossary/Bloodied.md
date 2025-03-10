@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">A creature is Bloodied while it has half its Hit Points or fewer remaining.</span>*

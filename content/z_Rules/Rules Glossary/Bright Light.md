@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">Bright Light is normal illumination.</span>*
