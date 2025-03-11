@@ -7,6 +7,8 @@ tags:
 | Casting Time | Range   | Components | Duration      |
 | ------------ | ------- | ---------- | ------------- |
 | Action       | 30 feet | V, S       | Instantaneous |
+
+
 Whispering to the spirits of nature, you create one of the following effects within range.
 
 > **<span style="color:rgb(134, 93, 187)">Weather Sensor</span>**: You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round. 

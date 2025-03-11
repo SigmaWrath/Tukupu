@@ -8,6 +8,8 @@ tags:
 | **Casting Time** | Range   | Components                | Duration                      |
 | ---------------- | ------- | ------------------------- | ----------------------------- |
 | Action           | 60 feet | V, S, M (a bit of fleece) | Concentration, up to 1 minute |
+
+
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.  
 
 The target can take a [[Study (Action)|Study action]] to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.  

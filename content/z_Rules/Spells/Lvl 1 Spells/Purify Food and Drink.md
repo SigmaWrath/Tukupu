@@ -7,4 +7,6 @@ tags:
 | Casting Time         | Range   | Components | Duration      |
 | -------------------- | ------- | ---------- | ------------- |
 | Action or [[Ritual]] | 10 feet | V, S       | Instantaneous |
+
+
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range. 

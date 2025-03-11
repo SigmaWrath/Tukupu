@@ -35,6 +35,8 @@ There are, however, just as many stories of vigils and wards falling deeply in l
 | Creature Type | Size   | Speed |
 | ------------- | ------ | ----- |
 | Humanoid      | Medium | 30 ft |
+
+
 ***<span style="color:rgb(134, 93, 187)">Darkvision</span>***: You have [[Darkvision]] with a range of 60 feet.
 
 ***<span style="color:rgb(134, 93, 187)">Celestial Resistance</span>***: You have resistance to necrotic damage and radiant damage.

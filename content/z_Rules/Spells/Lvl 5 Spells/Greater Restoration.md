@@ -8,6 +8,7 @@ tags:
 | Casting Time | Range | Components                                                     | **Duration**  |
 | ------------ | ----- | -------------------------------------------------------------- | ------------- |
 | Action       | Touch | V, S, M (diamond dust worth 100+ GP, which the spell consumes) | Instantaneous |
+
 You touch a creature and magically remove one of the following effects from it:  
 - 1 [[Exhaustion]] level  
 - The [[Charmed]] or [[Petrified]] condition  

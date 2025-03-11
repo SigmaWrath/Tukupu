@@ -7,4 +7,6 @@ tags:
 | Casting Time | Range | Components | Duration      |
 | ------------ | ----- | ---------- | ------------- |
 | Bonus Action | Self  | V          | Instantaneous |
+
+
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.

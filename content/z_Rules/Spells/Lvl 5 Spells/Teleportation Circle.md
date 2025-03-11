@@ -10,6 +10,7 @@ tags:
 | Casting Time | Range   | Components                                              | Duration |
 | ------------ | ------- | ------------------------------------------------------- | -------- |
 | 1 minute     | 10 feet | V, M (rare inks worth 50+ GP, which the spell consumes) | 1 round  |
+
 As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.  
 
 Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence—a string of runes arranged in a particular pattern.  

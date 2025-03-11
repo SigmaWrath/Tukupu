@@ -7,6 +7,7 @@ tags:
 | Casting Time | Range   | Components | Duration |
 | ------------ | ------- | ---------- | -------- |
 | Action       | 30 feet | V, S       | 8 hours  |
+
 You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.  
 
 You can give the same appearance or different ones to the targets. The spell can change the appearance of the targets' bodies and equipment. You can make each creature seem 1 foot shorter or taller and appear heavier or lighter. A target's new appearance must have the same basic arrangement of limbs as the target, but the extent of the illusion is otherwise up to you. The spell lasts for the duration.  

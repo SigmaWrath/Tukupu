@@ -7,7 +7,10 @@ tags:
 | Casting Time | Range   | Components | Duration     |
 | ------------ | ------- | ---------- | ------------ |
 | Action       | 10 feet | V, S       | Up to 1 hour |
+
+
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.  
+
 > **<span style="color:rgb(134, 93, 187)">Sensory Effect</span>**: You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.  
 > 
 > **<span style="color:rgb(134, 93, 187)">Fire Play</span>**: You instantaneously light or snuff out a candle, a torch, or a small campfire.  

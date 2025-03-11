@@ -7,6 +7,8 @@ tags:
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
 |1 action|30 feet|S|Instantaneous or 1 hour|
+
+
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways: 
 - You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage. 
 - You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour. 

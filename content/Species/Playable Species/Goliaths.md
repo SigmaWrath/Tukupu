@@ -104,6 +104,8 @@ Other games that were popular amongst many tribes included:
 | Creature Type | Size   | Speed |
 | ------------- | ------ | ----- |
 | Humanoid      | Medium | 35 ft |
+
+
 <span style="color:rgb(134, 93, 187)">Giant Ancestry</span>: You are descended from [[Giant|giants]]. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest:
 - <span style="color:rgb(193, 145, 56)">Cloud's Jaunt</span> <span style="color:rgb(125, 125, 125)">([[Cloud Giant]])</span>: As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see. 
 - <span style="color:rgb(193, 145, 56)">Fire's Burn</span> <span style="color:rgb(125, 125, 125)">([[Fire Giant]])</span>: When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.

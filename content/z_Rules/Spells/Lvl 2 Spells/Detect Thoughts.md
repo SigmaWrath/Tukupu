@@ -8,6 +8,8 @@ tags:
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
 |Action|Self|V, S, M (a copper piece)|Concentration, up to 1 minute|
+
+
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns. 
 
 > **<span style="color:rgb(134, 93, 187)">Sense Thoughts</span>**: You sense the presence of thoughts within 30 feet of yourself that belong to creatures that know languages or are telepathic. You don't read the thoughts, but you know that a thinking creature is present.

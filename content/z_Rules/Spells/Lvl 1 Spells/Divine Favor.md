@@ -7,4 +7,6 @@ tags:
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
 |Bonus Action|Self|V, S|1 minute|
+
+
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit. 

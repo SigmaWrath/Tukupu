@@ -8,6 +8,7 @@ tags:
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
 |Action|120 feet|V, S, M (a piece of charcoal)|Concentration, up to 1 minute|
+
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration. 
 
 When the wall appears, each creature in its area makes a Dexterity saving throw, taking 5d8 Fire damage on a failed save or half as much damage on a successful one. 

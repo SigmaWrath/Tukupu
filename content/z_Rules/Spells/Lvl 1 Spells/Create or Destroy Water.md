@@ -9,6 +9,7 @@ tags:
 |---|---|---|---|
 |Action|30 feet|V, S, M (a mix of water and sand)|Instantaneous|
 
+
 You do one of the following: 
 
 > **<span style="color:rgb(134, 93, 187)">Create Water</span>**: You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot Cube within range, extinguishing exposed flames there.

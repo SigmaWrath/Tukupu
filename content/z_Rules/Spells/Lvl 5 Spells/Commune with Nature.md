@@ -7,9 +7,11 @@ tags:
 | Casting Time           | Range | Components | Duration      |
 | ---------------------- | ----- | ---------- | ------------- |
 | 1 minute or [[Ritual]] | Self  | V, S       | Instantaneous |
+
 You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements. 
 
 Choose three of the following facts; you learn those facts as they pertain to the spell's area: 
+
 > <span style="color:rgb(193, 145, 56)">Locations of settlements</span>
 > 
 > <span style="color:rgb(193, 145, 56)">Locations of portals to other planes of existence</span> 

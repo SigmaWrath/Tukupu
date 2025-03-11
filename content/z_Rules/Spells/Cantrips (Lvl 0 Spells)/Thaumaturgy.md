@@ -8,6 +8,7 @@ tags:
 |---|---|---|---|
 |Action|30 feet|V|Up to 1 minute|
 
+
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
 
 > <span style="color:rgb(134, 93, 187)">**Altered Eyes**</span>: You alter the appearance of your eyes for 1 minute.

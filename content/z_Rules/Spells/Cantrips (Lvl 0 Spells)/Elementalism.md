@@ -7,6 +7,8 @@ tags:
 | Casting Time | Range   | Components | Duration      |
 | ------------ | ------- | ---------- | ------------- |
 | Action       | 30 feet | V, S       | Instantaneous |
+
+
 You exert control over the elements, creating one of the following effects within range.
 
 > **<span style="color:rgb(134, 93, 187)">Beckon Air</span>**: You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren't affected.  

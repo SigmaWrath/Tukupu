@@ -8,6 +8,7 @@ tags:
 |---|---|---|---|
 |Action|60 feet|V|Instantaneous|
 
+
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
 
 > **<span style="color:rgb(134, 93, 187)">Approach</span>**: The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.

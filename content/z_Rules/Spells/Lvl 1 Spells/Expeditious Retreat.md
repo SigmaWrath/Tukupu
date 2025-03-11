@@ -7,4 +7,6 @@ tags:
 | Casting Time | Range | Components | Duration                        |
 | ------------ | ----- | ---------- | ------------------------------- |
 | Bonus Action | Self  | V, S       | Concentration, up to 10 minutes |
+
+
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
