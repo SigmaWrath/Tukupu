@@ -28,11 +28,16 @@
 // 损坏的内部链接样式
 a.internal.broken-link {
    border-bottom: 2px dashed var(--broken-link-color);
-   background-color: rgba(218, 89, 89, 0.08);
-   position: relative;
-   padding-right: 1.2em;
+   background-color: rgba(218, 89, 89, 0.327);
    
-   &::after {
+   body: {
+      color: rgb(128, 1, 1);
+   }
+
+   //position: relative;
+   //padding-right: 1.2em;
+   
+   /*&::after {
       content: "⊘";  // 圆圈加叉号
       display: inline-block;
       position: absolute;
@@ -40,11 +45,12 @@ a.internal.broken-link {
       font-size: 1em;
       transform: translateY(-50%);
       top: 50%;
-   }
+   }*/
    
    &:hover {
       text-decoration: line-through;
-      background-color: rgba(218, 89, 89, 0.15);
+      color: rgb(128, 1, 1);
+      background-color: rgba(218, 89, 89, 0.327);
    }
 
    // 禁用 popover
