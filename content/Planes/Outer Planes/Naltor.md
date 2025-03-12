@@ -36,4 +36,4 @@ Nura is the deepest and most dangerous layer of Naltor, where the separation bet
 Time and space are meaningless in Nura. Those who venture too deeply risk becoming trapped in a cycle of dreams, unable to discern whether they are awake, asleep, or something else entirely. Some believe that Nura is the source of all dreams, the primordial sea from which imagination itself flows. Others warn that it is the place where forgotten dreams, abandoned thoughts, and unrealized nightmares fester, waiting for the moment to return to reality.
 
 > [!tip] Dreams are convergent
-> Dreams take in vast subconscious input and distilling it into a singular symbolic experience. They often compress, condense, and unify disparate thoughts into one immersive experience. 
+> Dreams take in vast subconscious input and distilling it into a singular symbolic experience. They compress, condense, and unify disparate thoughts into one immersive experience. 

@@ -8,7 +8,7 @@ tags:
 <br>
 
 #### Overview
-Stonehaven is very slightly on the poorer side, but maintains trade with the nearest peoples, including the [[Mistmoss]] [[Elves|elves]] <span style="color:rgb(125, 125, 125)">(who live in the Eldermist Forest)</span> and the [[Gorano Empire]]. Stonehaven is governed by its [[Harmonium Council]], has 8 [[Guilds of Stonehaven|guilds]], and has a secret society called the [[Nightweavers]].
+Stonehaven is very slightly on the poorer side, but maintains trade with the nearest peoples, including the [[Mistmoss]] [[Elves|elves]] <span style="color:rgb(125, 125, 125)">(who live in the Eldermist Forest)</span> and the [[Gorano Empire]]. Stonehaven is governed by its [[Harmonium Council]], has 8 [[Guilds of Stonehaven|guilds]], and has a secret society called the [[Nightweavers]]. The townspeople are fairly religious in their worship of [[The Lovers]].
 
 #### Map
 
@@ -33,7 +33,7 @@ darkmode: false ### marker  marker: District,391.0546875,1171.84375,,,,
 ```
 
 #### Society
-The government is led by the meritocratic [[Harmonium Council]], and the city is economically communist. Communism means that resources are shared equitably, and everyone gets what they need, and can make petitions to the central council for more if they can demonstrate need or benefit. Motivation is primarily for the good of the community, like in a localized household gift economy but on a larger scale. 
+The government is led by the meritocratic [[Harmonium Council]], and the city is economically communist. Resources are shared equitably, and everyone gets what they need, and can make petitions to the central council for more if they can demonstrate need or benefit. Motivation is primarily for the good of the community, like in a localized household gift economy but on a larger scale. 
 
 The low crime isn't because of strict enforcement—it's because of restorative justice, as opposed to punitive justice. Most laws created are treated more like advisements, and there isn't a dedicated peacekeeping force, instead the strong community culture enables community members to solve disputes civilly with each other. Regulation of magic is also a set of advisements put out for safety reasons, and is enforced by honor and the belief that community members will be safe for self-interest.
 #### History and Districts

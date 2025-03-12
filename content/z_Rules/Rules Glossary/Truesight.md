@@ -1,6 +1,6 @@
 If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-> **<span style="color:rgb(134, 93, 187)">Darkness</span>**: You can see in normal and magical [[Darkness]].
+> **<span style="color:rgb(134, 93, 187)">Darkness</span>**: You can see in normal and magical [[Darkness (Rules)|Darkness]].
 > 
 > **<span style="color:rgb(134, 93, 187)">Invisibility</span>**: You see creatures and objects that have the [[Invisible]] condition.
 > 

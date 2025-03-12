@@ -8,5 +8,5 @@ The Sekelkes are home to a variety of intelligent life, including:
 - The [[Ellikan Clan]] of [[Goliaths|goliaths]]
 - The [[Firebeard Clan]] of [[Dwarves|dwarves]]
 - The [[Snowhammer Clan]] of [[Dwarves|dwarves]]
-- [[Argenta]]
+- [[Argenta]], the [[Magus Dragons|magus dragon]]
 - Several [[Cloud Giants|cloud giant]] clans

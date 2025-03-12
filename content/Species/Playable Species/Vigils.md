@@ -6,7 +6,7 @@ tags:
   - species
   - humanoid
 ---
-> *<span style="color:rgb(125, 125, 125)">Children of mortals and guardian [[angels]], tied to a ward by the string of fate.</span>*
+> *<span style="color:rgb(125, 125, 125)">Children of mortals and guardian [[Angels|angels]], tied to a ward by the string of fate.</span>*
 
 ### Overview
 ##### <span style="color:rgb(203, 123, 55)">Origin</span>
@@ -28,7 +28,7 @@ A vigil’s soul is intrinsically connected to the divine spark of their progeni
 
 How a vigil leads their life faced with this reality depends on the vigil. Some vigils take to their protective role naturally, but not all of them do. A vigil might be predetermined to ward someone, but they are not predetermined to be good, or caring, or kind to them. Some deeply resent their fate as vigils, and can’t stand the fact that their existence is tied to a perfect stranger, forced into a life of servitude they didn’t choose and don’t know, or, more upsettingly, someone they greatly dislike. There are stories of vigils keeping their wards under lock and key for their entire lives, keeping them from harm but also keeping them from living a full life. There are also stories of wards deeply resenting their vigils, despising the fact that a perfect stranger watches over their every move, preventing the ward from living life as they see fit. There are even accounts of wards killing their vigil—something they can do, since a ward’s life doesn’t end with that of the vigil.
 
-There are, however, just as many stories of vigils and wards falling deeply in love with each other, mirroring in a way the love story that gave birth to the vigil’s existence. There are entire lineages of vigils and wards, families that are somehow tied together as the divine spark moves through the generations, with a safeguarded family of wards and a protector family of vigils. There are love stories that reoccur between two families, where members of the two families connected through a vigil-ward bond fall in love with one another every ten generations, as if they were fated to do so.
+There are, however, just as many stories of vigils and wards developing friendships that last for life. Some fall deeply in love with each other, mirroring in a way the love story that gave birth to the vigil’s existence. There are entire lineages of vigils and wards, families that are somehow tied together as the divine spark moves through the generations, with a safeguarded family of wards and a protector family of vigils. There are love stories that reoccur between two families, where members of the two families connected through a vigil-ward bond fall in love with one another every ten generations, as if they were fated to do so.
 
 ### Mechanical Traits
 

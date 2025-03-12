@@ -17,7 +17,7 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 
 > **<span style="color:rgb(193, 145, 56)">Courage</span>**: Creatures of any types you choose can't gain the [[Frightened]] condition while in the area.
 > 
-> **<span style="color:rgb(193, 145, 56)">Darkness</span>**: [[Darkness]] fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.
+> **<span style="color:rgb(193, 145, 56)">Darkness</span>**: [[Darkness (Rules)|Darkness]] fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.
 > 
 > **<span style="color:rgb(193, 145, 56)">Daylight</span>**: [[Bright Light]] fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light.
 > 

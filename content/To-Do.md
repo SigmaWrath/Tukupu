@@ -2,20 +2,32 @@
 draft: true
 ---
 ## <span style="color:rgb(134, 93, 187)">Obsidian</span>
-1. Rename core planes to Gaia <span style="color:rgb(192, 82, 75)">(QUARTZ DEPENDENCY)</span>
-	1. Make (very very brief, purely definitional) Gaia article separate from Parallel Planes
+1. Rename core planes to Gaia <span style="color:rgb(192, 82, 75)">(BEFORE FRIDAY)</span>
+	1. Make (very very brief, purely definitional) Gaia article separate from Parallel Planes 
+	2. Update overview text in Vesperia article
 2. Change the names of the renowned wizards who have spells named after them.
-3. Implement integrated pointy hat fixes
+3. Implement integrated pointy hat fixes <span style="color:rgb(192, 82, 75)">(BEFORE FRIDAY)</span>
 	1. Gnomes
 	2. Elves?
 		1. Rewrite drow (OMFG)
-4. Mortal manifestations of deities (appearances)??
-5. Solars and lunars - servants of deities
+4. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE FRIDAY)</span>
+	1. All classes
+		1. Fighter: A master of all arms and armor. 
+		2. Ranger: A wandering warrior imbued with primal magic.
+		3. Rogue: A dextrous expert in stealth and subterfuge. 
+		4. Sorcerer: A dazzling mage filled with innate magic. 
+	2. All species
+	3. All backgrounds
+	4. Four subclasses per class... try to get most done tho? Dw if not
+5. Weapons and weapon mastery rules
+6. Mortal manifestations of deities (appearances)??
+7. Solars and lunars - servants of deities
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
-1. Figure out a way to grey out or flag non-functional links
-2. Fix table spacing formatting
-3. Get leaflet working (or some other pinned maps)
+1. Theme the site with the colors <span style="color:rgb(192, 82, 75)">(BEFORE FRIDAY)</span>
+2. Figure out a way to grey out or flag non-functional links <span style="color:rgb(192, 82, 75)">(BEFORE FRIDAY)</span>
+3. Get leaflet working (or some other pinned maps) <span style="color:rgb(186, 74, 120)">(Quick fix before friday)</span>
+4. Rename index file with directory override
 
 ### <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
 - Model the outer planes as like "here are the planes that have the similar enough rules of physics to ours that we can survive". Perhaps include Arborea, probs the Abyss? (in a way more similar to Kane Chronicles [duat](https://riordan.fandom.com/wiki/Duat#The_Houses_of_the_Night) abyss), and model other stuff of Kane Chronicles. 

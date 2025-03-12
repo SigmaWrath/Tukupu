@@ -18,12 +18,13 @@ The closest a Wizard is likely to come to an ordinary life is working as a sage 
 But the lure of knowledge calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
 
 
-| Wizard Subclasses |
-| ----------------- |
-| [[Abjurer]]       |
-| [[Diviner]]       |
-| [[Evoker]]        |
-| [[Illusionist]]   |
+| Wizard Subclasses        |
+| ------------------------ |
+| [[Abjurer]]              |
+| [[Diviner]]              |
+| [[Evoker]]               |
+| [[Illusionist]]          |
+| [[School of Witchcraft]] |
 ### Mechanical Traits
 
 | <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Wizard</span>                                |

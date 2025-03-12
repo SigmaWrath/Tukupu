@@ -13,6 +13,7 @@ Playable Species:
 - [[Dwarves]]
 - [[Elves]] <span style="color:rgb(125, 125, 125)">(see also [[Drow]])</span>
 - [[Fairies]]
+- [[Fuyohren]]
 - [[Genasi]]
 - [[Gnomes]]
 - [[Goliaths]]

@@ -25,7 +25,7 @@ Barbarians often serve as protectors and leaders in their communities. They char
 | [[Path of the World Tree]] |
 ### Mechanical Traits
 
-| <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Bard</span>                                      |
+| <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Barbarian</span>                                 |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | **Primary Ability**                                       | Strength                                                                                |
 | **Hit Point Die**                                         | 1d12 per Barbarian level                                                                |

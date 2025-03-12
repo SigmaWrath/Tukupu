@@ -5,7 +5,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Protect and fight for your love.</span>*
 
-[[Paladins]] of Love are known to be extremely committed to their cause, fueled by their most sacred feeling. The oath itself relies on the love that inspires them to swear by the tenets they follow. To them, loving eyes are the only eyes not clouded by superfluous ideals and morals.
+[[Paladin|Paladins]] of Love are known to be extremely committed to their cause, fueled by their most sacred feeling. The oath itself relies on the love that inspires them to swear by the tenets they follow. To them, loving eyes are the only eyes not clouded by superfluous ideals and morals.
 
 Paladins of Love choose a beloved -- or rather, their feelings choose for them. A paladin’s beloved, what they love most in this world and all the others, is the source of their power. Most paladins’ beloved are people. Parents who gain magical abilities by swearing an oath to love and protect their child, or lovers who battle together and use their love for each other as the force that guides their blows. Other paladins of love, however, find their beloved in an idea, a group of people, a [[Deities|deity]], or a place. Paladins of love are not interested in questions of morality, and are not required to find a beloved that is “good”; they are only required to love them unconditionally.
 

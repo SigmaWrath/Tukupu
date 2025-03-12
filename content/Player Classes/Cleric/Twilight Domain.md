@@ -34,7 +34,7 @@ As an Action, you present your Holy Symbol, and a Sphere of twilight emanates fr
 - You end one effect on it causing it to be [[Charmed]] or [[Frightened]]
 
 #### <span style="color:rgb(203, 123, 55)">Level 6: Steps of Night</span>
-You can draw on the mystical power of night to rise into the air. As a Bonus Action when you are in [[Dim Light]] or [[Darkness]], you can magically give yourself a Flying Speed equal to your Walking Speed for 1 minute. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+You can draw on the mystical power of night to rise into the air. As a Bonus Action when you are in [[Dim Light]] or [[Darkness (Rules)|Darkness]], you can magically give yourself a Flying Speed equal to your Walking Speed for 1 minute. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### <span style="color:rgb(203, 123, 55)">Level 17: Twilight Shroud</span>
 The twilight that you summon offers a protective embrace: you and your allies have [[Half Cover]] while in the sphere created by your <span style="color:rgb(203, 123, 55)">Twilight Sanctuary</span>.
