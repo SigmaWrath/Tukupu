@@ -9,7 +9,7 @@
 
 :root {
    // 损坏链接的颜色
-   --broken-link-color: #501f3a;
+   --broken-link-color: #9e2467;
 
 }
 
@@ -27,14 +27,13 @@
 
 // 损坏的内部链接样式
 a.internal.broken-link {
-   border-bottom: 2px dashed var(--broken-link-color);
+   //border-bottom: 2px dashed var(--broken-link-color);
    background-color: rgba(80, 31, 58, 0.6);
-   text-decoration: line-through;
 
    //position: relative;
    //padding-right: 1.2em;
    
-   /*&::after {
+   &::after {
       content: "⊘";  // 圆圈加叉号
       display: inline-block;
       position: absolute;
@@ -42,10 +41,11 @@ a.internal.broken-link {
       font-size: 1em;
       transform: translateY(-50%);
       top: 50%;
-   }*/
+   }
    
    &:hover {
       //color: rgb(128, 1, 1);
+      text-decoration: line-through;
       background-color: rgba(80, 31, 58, 0.6);
    }
 
