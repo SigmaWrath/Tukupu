@@ -27,8 +27,8 @@
 
 // 损坏的内部链接样式
 a.internal.broken-link {
-   //border-bottom: 2px dashed var(--broken-link-color);
-   background-color: rgba(0, 0, 0, 0.5);
+   border-bottom: 2px dashed var(--broken-link-color);
+   background-color: rgba(80, 31, 58, 0.6);
 
    /*position: relative;
    padding-right: 1.2em;
@@ -45,7 +45,7 @@ a.internal.broken-link {
    &:hover {
       //color: rgb(128, 1, 1);
       text-decoration: line-through;
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: rgba(80, 31, 58, 0.6);
    }
 
    // 禁用 popover
