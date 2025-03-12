@@ -29,7 +29,7 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
+        darkMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
@@ -40,16 +40,16 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
-        darkMode: {
-          light: "#0b0c10",
-          lightgray: "#45a29e",
-          gray: "#66fcf1",
-          darkgray: "#c5c6c7",
-          dark: "#7ee787",
-          secondary: "#00f27d",
-          tertiary: "#45a29e",
-          highlight: "rgba(143, 159, 169, 0.15)",//"rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",//"#b3aa0288"
+        lightMode: {
+          light: "#141414",//background
+          lightgray: "#501f3a",//search bar, graph primary
+          gray: "#00a86b",//date created
+          darkgray: "#c1c8e4", //normal text
+          dark: "#7ee787",//Titles and big headers
+          secondary: "#0093E7",//Links
+          tertiary: "#5ab9ea",//Hover states and visited graph nodes
+          highlight: "rgba(143, 165, 169, 0.12)",//"rgba(143, 159, 169, 0.15)",
+          textHighlight: "#000000",//"#b3aa0288"
         },
       },
     },

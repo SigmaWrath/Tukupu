@@ -26,12 +26,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    //Component.Darkmode(),
     Component.Explorer({folderDefaultState: "collapsed"}),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    //Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -43,7 +43,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    //Component.Darkmode(),
     Component.Explorer({folderDefaultState: "collapsed"}),
   ],
   right: [],
