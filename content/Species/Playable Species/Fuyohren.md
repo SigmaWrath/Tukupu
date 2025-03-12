@@ -16,7 +16,7 @@ Fuyohren can grow up to 6 feet tall. They reach adulthood at 18, and can live up
 
 ###### <span style="color:rgb(134, 93, 187)">Seasonal Divination</span>
 
-Bound to nature, the fuyohren bear an imprint of the world at the time of their birth. So-called "winter warriors" are fuyohren born in the bitter, colder months, and are believed to bear an aggressive, steely disposition. Fuyohren born in spring are blessed with a childlike, optimistic disposition, while summer fuyohren are typically charismatic, and au-cumnal fuyohren said to be wise. Whether these stereotypes are true or merely a product of a cultural myth manifesting irself in the way fuyohren are raised is unknown.
+Bound to nature, the fuyohren bear an imprint of the world at the time of their birth. So-called "winter warriors" are fuyohren born in the bitter, colder months, and are believed to bear an aggressive, steely disposition. Fuyohren born in spring are blessed with a childlike, optimistic disposition, while summer fuyohren are typically charismatic, and autumnal fuyohren said to be wise. Whether these stereotypes are true or merely a product of a cultural myth manifesting irself in the way fuyohren are raised is unknown.
 
 ##### <span style="color:rgb(134, 93, 187)">Kaiju Callers</span>
 

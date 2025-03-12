@@ -5,7 +5,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Harness shadow power for stealth and subterfuge.</span>*
 
-Warriors of Shadow practice stealth and subterfuge, channeling their reservoirs of power to harness the power of the Shadowfell. These [[Monk|monks]] are at home in darkness, able to draw gloom around themselves to hide, to leap from shadow to shadow, and even to take on a wraithlike form of living shadow.
+Warriors of Shadow practice stealth and subterfuge, channeling their reservoirs of power to harness the power of the [[Shadowfell]]. These [[Monk|monks]] are at home in darkness, able to draw gloom around themselves to hide, to leap from shadow to shadow, and even to take on a wraithlike form of living shadow.
 
 ### Mechanical Traits
 
