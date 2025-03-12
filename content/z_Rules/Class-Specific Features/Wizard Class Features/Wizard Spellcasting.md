@@ -1,6 +1,8 @@
 ---
 tags:
   - UNFINISHED
+aliases:
+  - Wizard Spell List
 ---
 ##### *<span style="color:rgb(203, 123, 55)">[[Wizard]] Class Feat (Level 1)</span>*
 

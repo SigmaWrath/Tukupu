@@ -1,6 +1,8 @@
 ---
 tags:
   - UNFINISHED
+aliases:
+  - Cleric Spell List
 ---
 ##### *<span style="color:rgb(203, 123, 55)">[[Cleric]] Class Feat (Level 1)</span>*
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - UNFINISHED
+aliases:
+  - Warlock Spell List
 ---
 ##### <span style="color:rgb(203, 123, 55)">*[[Warlock]] Class Feat (Level 1)*</span>
 

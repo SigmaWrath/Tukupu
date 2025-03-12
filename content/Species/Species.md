@@ -7,7 +7,7 @@ aliases:
 > *<span style="color:rgb(125, 125, 125)">Species here will refer to playable/non-playable, sapient, mortal creatures with the species tag.</span>*
 
 Playable Species:
-- [[Ardlings]] <span style="color:rgb(125, 125, 125)">(see also [[Tabaxi]])</span>
+- [[Ardlings]]
 - [[Dhampirs]]
 - [[Dragonborn]]
 - [[Dwarves]]
@@ -19,7 +19,6 @@ Playable Species:
 - [[Goliaths]]
 - [[Halflings]] <span style="color:rgb(125, 125, 125)">(see also [[Jinxes]])</span>
 - [[Humans]]
-- [[Merfolk]]
 - [[Nymphs]]
 - [[Orcs]]
 - [[Tieflings]]
@@ -45,6 +44,7 @@ Non-Playable Species:
 - [[Krakens]]
 - [[Lamias]]
 - [[Medusae]]
+- [[Merfolk]]
 - [[Phoenixes]]
 - [[Sphinxes]]
 - [[Unicorns]]

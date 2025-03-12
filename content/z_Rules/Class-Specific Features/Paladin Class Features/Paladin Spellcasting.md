@@ -1,6 +1,8 @@
 ---
 tags:
   - UNFINISHED
+aliases:
+  - Paladin Spell List
 ---
 ##### *<span style="color:rgb(203, 123, 55)">[[Paladin]] Class Feat (Level 1)</span>*
 
