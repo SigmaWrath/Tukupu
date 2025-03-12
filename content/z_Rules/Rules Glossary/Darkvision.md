@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">If you have Darkvision, you can see in [[Dim Light]] within a specified range as if it were [[Bright Light]] and in [[Darkness (Rules)|Darkness]] within that range as if it were Dim Light. You discern colors in that Darkness only as shades of gray.</span>*

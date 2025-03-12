@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)"> In a Lightly Obscured space, you have Disadvantage on Wisdom (Perception) checks to see something.</span>*
