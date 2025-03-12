@@ -5,7 +5,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Call on the power of the heavens.</span>*
 
-Your pact draws on the power of Celestials from the [[Outer Planes]]. You might enter an agreement with an [[Angels|angel]], a [[Phoenixes|phoenix]] a [[Hollyphants|hollyphant]], or some similar entity associated with those realms. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience the barest touch of the holy light that illuminates the multiverse.
+Your pact draws on the power of Celestials from the [[Outer Planes]]. You might enter an agreement with an [[Angels|angel]], a [[Phoenixes|phoenix]], a [[Hollyphants|hollyphant]], or some similar entity associated with those realms. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience the barest touch of the holy light that illuminates the multiverse.
 
 ### Mechanical Traits
 #### <span style="color:rgb(203, 123, 55)">Level 3: Celestial Spells</span>
