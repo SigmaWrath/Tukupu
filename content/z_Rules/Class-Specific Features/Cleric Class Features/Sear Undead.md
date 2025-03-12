@@ -1,3 +1,0 @@
-##### *<span style="color:rgb(203, 123, 55)">[[Cleric]] Class Feat (Level 5)</span>*
-
-> *<span style="color:rgb(125, 125, 125)">Whenever you use [[Channel Divinity|Turn Undead]], you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of <span style="color:rgb(134, 93, 187)">Turn Undead</span> takes Radiant damage equal to the roll’s total. This damage doesn’t end the turn effect.</span>*

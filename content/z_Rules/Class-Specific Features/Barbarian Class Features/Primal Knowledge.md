@@ -1,5 +1,0 @@
-##### *<span style="color:rgb(203, 123, 55)">[[Barbarian]] Class Feat (Level 3)</span>*
-
-> *<span style="color:rgb(125, 125, 125)">You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.</span>*
-
-In addition, while your [[Rage]] is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: <span style="color:rgb(193, 145, 56)">Acrobatics</span>, <span style="color:rgb(193, 145, 56)">Intimidation</span>, <span style="color:rgb(193, 145, 56)">Perception</span>, <span style="color:rgb(193, 145, 56)">Stealth</span>, or <span style="color:rgb(193, 145, 56)">Survival</span>. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
