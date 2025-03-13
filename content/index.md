@@ -2,6 +2,7 @@
 title: Tukupu
 tags:
   - root
+socialImage: og-image.png
 ---
 
 > <span style="color:rgb(125, 125, 125)">Tukupu is the name for the multiverse, encompassing every [[Planes|plane]]. </span>
