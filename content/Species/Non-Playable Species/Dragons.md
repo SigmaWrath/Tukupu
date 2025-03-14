@@ -7,8 +7,7 @@ tags:
   - non-playable
   - species
   - dragon
-  - UNFINISHED
-draft: true
+draft: false
 ---
 > <span style="font-style:italic; color:rgb(125, 125, 125)">Dragons are large reptilian creatures who hoard people and become more powerful over time as their hoards grow.</span> 
 

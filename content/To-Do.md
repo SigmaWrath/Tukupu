@@ -12,16 +12,16 @@ draft: true
 3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
 	1. All classes (4 remaining)
 		1. Fighter: A master of all arms and armor. 
-		2. Ranger: A wandering warrior imbued with primal magic.
-		3. Rogue: A dextrous expert in stealth and subterfuge. 
-		4. Sorcerer: A dazzling mage filled with innate magic. 
+		2. Rogue: A dextrous expert in stealth and subterfuge. 
+		3. Sorcerer: A dazzling mage filled with innate magic. 
 	2. All species (7 remaining)
 	3. All backgrounds (14 remaining)
 	4. Four subclasses per class... try to get most done tho? Dw if not
 4. Weapons and weapon mastery rules
-5. Change the names of the renowned wizards who have spells named after them.
-6. Mortal manifestations of deities (appearances)??
-7. Solars and lunars - servants of deities
+5. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
+6. Change the names of the renowned wizards who have spells named after them.
+7. Mortal manifestations of deities (appearances)??
+8. Solars and lunars - servants of deities
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Figure out a way to grey out or flag non-functional links <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>

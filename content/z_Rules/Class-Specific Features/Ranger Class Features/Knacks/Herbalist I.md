@@ -1,0 +1,1 @@
+> You have an extensive knowledge of plants and their healing properties. You gain proficiency with Herbalism Kits, and you automatically succeed on your Wisdom (Medicine) checks to stabilize creatures at 0 Hit Points if you use a [[Herbalism Kit]].

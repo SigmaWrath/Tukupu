@@ -1,4 +1,4 @@
-##### <span style="font-style:italic; color:rgb(203, 123, 55)">[[Warlock]] Class Feat (Level 6)</span>
+##### <span style="font-style:italic; color:rgb(203, 123, 55)">[[Warlock]] Class Feat (Level 11, 13, 15, 17 )</span> 
 
 > *<span style="color:rgb(125, 125, 125)">Your patron grants you a magical secret called an arcanum. Choose one spell (of the level detailed in the Warlock features table) as this arcanum.</span>* 
 

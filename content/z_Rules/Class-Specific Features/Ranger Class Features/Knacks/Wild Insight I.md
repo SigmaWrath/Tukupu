@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">You have a special insight into the mannerisms and sounds of wild animals. You can communicate with beasts as if you were always under the effect of a [[Speak with Animals]] spell.</span>*
