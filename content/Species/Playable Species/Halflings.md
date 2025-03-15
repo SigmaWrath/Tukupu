@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Halfling
+  - halflings
+  - halfling
 tags:
   - playable
   - species

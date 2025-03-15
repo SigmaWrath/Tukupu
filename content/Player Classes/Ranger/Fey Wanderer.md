@@ -17,7 +17,6 @@ You can augment your weapon strikes with mind-scarring magic drawn from the murk
 
 When you reach a Ranger level specified in the Fey Wanderer Spells table, you thereafter always have the listed spells prepared.
 
-
 | Ranger Level | Spells             |
 | ------------ | ------------------ |
 | 3            | [[Charm Person]]   |

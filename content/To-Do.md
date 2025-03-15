@@ -2,20 +2,33 @@
 draft: true
 ---
 ## <span style="color:rgb(134, 93, 187)">Obsidian</span>
-1. Rename core planes to Gaia <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-	1. Make (very very brief, purely definitional) Gaia article separate from Parallel Planes 
-	2. Update overview text in Vesperia article
+1. Planar overhaul <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
+	1. Rename core planes to Gaia 
+		1. Cover every instance
+		2. Make Gaia article separate from Parallel Planes 
+			1. Provide overview of topography syncing, as well as the layers.
+		3. Make an Ao article (just definitional).
+			1. Use Ao to clean up verbiage on the Far Realms page.
+	2. Make the planes Aldhani-centric
+		1. Rename Inner Planes to Proximal Planes
+		2. Delete the category of transient planes
+			1. Add Ethereal Plane to Proximal Planes
+			2. Leave Astral Plane on it's own
 2. Implement integrated pointy hat fixes <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
 	1. Gnomes
 	2. Elves?
 		1. Rewrite drow (OMFG)
 3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-	1. All classes (4 remaining)
-		1. Fighter: A master of all arms and armor. 
-		2. Rogue: A dextrous expert in stealth and subterfuge. 
-		3. Sorcerer: A dazzling mage filled with innate magic. 
-	2. All species (7 remaining)
+	1. All classes (3 remaining)
+		1. Ideally fill in tools? From tool proficiency section of each class
+		2. Fighter: A master of all arms and armor. 
+		3. Rogue: A dextrous expert in stealth and subterfuge. 
+		4. Sorcerer: A dazzling mage filled with innate magic. 
+	2. All species (6 remaining)
+		1. What kind of names does each species have?
+		2. How big are they and how long do they live?
 	3. All backgrounds (14 remaining)
+		1. Also obv all origin feats... fix them up too if they need it... like Crafter
 	4. Four subclasses per class... try to get most done tho? Dw if not
 4. Weapons and weapon mastery rules
 5. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
@@ -29,6 +42,7 @@ draft: true
 3. Rename index file with directory override
 
 ### <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
+- Cowgirls from Gorano herd Rothé, and discovered the secrets to firearms with the natural ingreduents for gunpowder available in the volcanic, mountainous areas. They were originally experimenting with spell components and alchemy.
 - Model the outer planes as like "here are the planes that have the similar enough rules of physics to ours that we can survive". Perhaps include Arborea, probs the Abyss? (in a way more similar to Kane Chronicles [duat](https://riordan.fandom.com/wiki/Duat#The_Houses_of_the_Night) abyss), and model other stuff of Kane Chronicles. 
 	- Connected planes are part of the "partition"
 	- Perhaps the Court of Stars should be its own outer plane (Queen ~~Morwel~~ Leora)

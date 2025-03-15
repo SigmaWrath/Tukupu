@@ -41,6 +41,7 @@ Non-Playable Species:
 - [[Hollyphants]]
 - [[Kami]]
 - [[Kelpies]]
+- [[Kitsune]]
 - [[Krakens]]
 - [[Lamias]]
 - [[Medusae]]

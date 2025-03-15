@@ -22,6 +22,7 @@ Ready to face any challenge, Rangers are survivalists at their core. The wildern
 | [[Fey Wanderer]]  |
 | [[Gloom Stalker]] |
 | [[Hunter]]        |
+| [[Rothé Rider]]   |
 
 
 ### Mechanical Traits

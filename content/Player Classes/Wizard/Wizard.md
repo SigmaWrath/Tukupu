@@ -9,7 +9,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">A scholarly magic-user of arcane power.</span>*
 
-Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other [[Planes|planes]] of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
+Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
 Most Wizards share a scholarly approach to magic, examining its [[Theory of Magic|theoretical underpinnings]]. Renowned Wizards such as [[Tasha]] have built on these studies to invent iconic spells now used across the multiverse.
 

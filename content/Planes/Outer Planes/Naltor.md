@@ -27,7 +27,7 @@ If they seek them, most travelers will be able to find creature comforts via she
 ###### <span style="color:rgb(203, 123, 55)">Nia - The Dream Expanse</span>
 Nia is the middle layer of Naltor and the most stable. It is a surreal expanse of spiraling cones of bluish ice hues <span style="color:rgb(125, 125, 125)">(called [[Kanohi]], they resemble giant [[Unicorns|unicorn]] horns)</span>, each acting as a conduit for dreams across the multiverse. These large formations display dream-images on their surfaces, which shift continuously as new dreams take hold and old ones fade. A thin layer of fog runs across the ground, which is smooth and reflective of the Kanohi. The backdrop of the world is black.
 
-At the heart of Nia stands the [[Dream Totem]], an enigmatic structure believed to be the core of Naltor’s power. Some say it holds the collective unconscious of all dreamers, while others theorize it's the anchor that prevents Naltor from dissolving into pure chaos. Those who approach the Totem often experience visions, which can range from historical memories to prophetic dreams to glimpses into other timelines.
+At the heart of Nia stands the [[Dream Totem]], an enigmatic structure believed to be the core of Nia's power, holding the essence of dreams and channeling the collective unconscious of all dreamers. Those who approach the Totem often experience visions, which can range from historical memories to prophetic dreams to glimpses into other timelines.
 
 
 ###### <span style="color:rgb(203, 123, 55)">Nura - The Nightmare Realm</span>
@@ -36,4 +36,4 @@ Nura is the deepest and most dangerous layer of Naltor, where the separation bet
 Time and space are meaningless in Nura. Those who venture too deeply risk becoming trapped in a cycle of dreams, unable to discern whether they are awake, asleep, or something else entirely. Some believe that Nura is the source of all dreams, the primordial sea from which imagination itself flows. Others warn that it is the place where forgotten dreams, abandoned thoughts, and unrealized nightmares fester, waiting for the moment to return to reality.
 
 > [!tip] Dreams are convergent
-> Dreams take in vast subconscious input and distilling it into a singular symbolic experience. They compress, condense, and unify disparate thoughts into one immersive experience. 
+> Dreams take in vast subconscious input and distill it into a singular symbolic experience, compressing, condensing, and unifying disparate thoughts. 
